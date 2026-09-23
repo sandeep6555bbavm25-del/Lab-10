@@ -1,1 +1,5 @@
-# Lab-10
+# Lab-10Aviation Image Generation focuses on creating professional and realistic aviation visuals using AI image-generation tools. The activity explains how to improve weak prompts by defining five key elements: subject, medium/style, environment, lighting, and aspect ratio. It demonstrates structured prompts for airport scenes, passenger experiences, airport technology, airline marketing, and aviation presentations.
+
+The lab also covers single-variable prompt refinement, prompt bleed, aviation accuracy, professionalism, ethical AI use, and human review. It highlights the importance of avoiding real airline logos, personal information, misleading text, unrealistic airport equipment, and unsafe passenger behaviour.
+
+Overall, the activity demonstrates how well-structured AI prompts can produce more suitable, professional, realistic, and business-ready aviation images, while emphasizing that AI-generated visuals should always be reviewed by humans for accuracy, safety, ethics, and responsible use.
